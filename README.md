@@ -32,19 +32,18 @@ The dataset used in this project is included in this repository and can be downl
 Here are some key visual insights and evaluation metrics from the project:
 
 **1. Actual vs. Predicted Prices (Model Evaluation)**
+
 > `<img width="691" height="546" alt="output" src="https://github.com/user-attachments/assets/716758af-2360-4152-8242-499df91e0f49" />
 `
 
 **3. Residuals Distribution (Error Analysis)**
-> *A histogram of the model's prediction errors. The normally distributed (bell-shaped) residuals centered around zero indicate that the model's assumptions hold true and there is no systematic bias.*
->
-> `![Residuals Distribution](Insert_Link_Or_Path_To_Your_Residuals_Image_Here)`
+
+> `<img width="710" height="546" alt="output2" src="https://github.com/user-attachments/assets/c09e9f25-6e5d-4aff-ad2e-ee894bca4fc3" />
+`
 
 **4. Scikit-learn Pipeline Architecture**
-> *A visual representation of the automated machine learning pipeline, showcasing a clean, modular, and reproducible approach to data preprocessing and modeling.*
->
-> `![Pipeline Diagram](Insert_Link_Or_Path_To_Your_Pipeline_Image_Here)`
 
+> ``
 ## 👨‍💻 Author
 
 **Mehdi Ferdosi**  
