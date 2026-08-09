@@ -35,14 +35,13 @@ Here are some key visual insights and evaluation metrics from the project:
 
 https://github.com/mehdifr24/house-price-prediction-ml/blob/main/output.png
 
-
-**3. Residuals Distribution (Error Analysis)**
+**2. Residuals Distribution (Error Analysis)**
 
 https://github.com/mehdifr24/house-price-prediction-ml/blob/main/output2.png
 
-**4. Scikit-learn Pipeline Architecture**
+**3. Scikit-learn Pipeline Architecture**
+<img width="769" height="1089" alt="image" src="https://github.com/user-attachments/assets/951874a1-f241-4a76-9de3-f67760baa805" />
 
-> ``
 ## 👨‍💻 Author
 
 **Mehdi Ferdosi**  
