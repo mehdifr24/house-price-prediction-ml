@@ -33,7 +33,8 @@ Here are some key visual insights and evaluation metrics from the project:
 
 **1. Actual vs. Predicted Prices (Model Evaluation)**
 
-https://github.com/mehdifr24/house-price-prediction-ml/blob/main/output.png
+<img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/7c82daa8-ee6e-4cd8-9dd1-f9071f36f262" />
+
 
 **2. Residuals Distribution (Error Analysis)**
 
