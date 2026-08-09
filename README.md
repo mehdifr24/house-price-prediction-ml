@@ -31,15 +31,9 @@ The dataset used in this project is included in this repository and can be downl
 
 Here are some key visual insights and evaluation metrics from the project:
 
-**1. Correlation Heatmap (Exploratory Data Analysis)**
-> *This heatmap illustrates the relationships between different features (e.g., square footage, number of bedrooms) and the target variable (house price), helping to identify the most impactful predictors.*
->
-> `![Correlation Heatmap](Insert_Link_Or_Path_To_Your_Heatmap_Image_Here)`
-
-**2. Actual vs. Predicted Prices (Model Evaluation)**
-> *A scatter plot comparing the real house prices against the model's predictions. The alignment of the data points along the diagonal line demonstrates the accuracy and reliability of the Linear Regression model.*
->
-> `![Actual vs Predicted](Insert_Link_Or_Path_To_Your_ScatterPlot_Image_Here)`
+**1. Actual vs. Predicted Prices (Model Evaluation)**
+> `<img width="691" height="546" alt="output" src="https://github.com/user-attachments/assets/716758af-2360-4152-8242-499df91e0f49" />
+`
 
 **3. Residuals Distribution (Error Analysis)**
 > *A histogram of the model's prediction errors. The normally distributed (bell-shaped) residuals centered around zero indicate that the model's assumptions hold true and there is no systematic bias.*
