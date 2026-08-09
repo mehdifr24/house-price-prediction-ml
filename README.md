@@ -37,9 +37,10 @@ https://github.com/mehdifr24/house-price-prediction-ml/blob/main/output.png
 
 **2. Residuals Distribution (Error Analysis)**
 
-https://github.com/mehdifr24/house-price-prediction-ml/blob/main/output2.png
+<img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/a957965d-0243-440a-a75c-50dfb1048748" />
 
 **3. Scikit-learn Pipeline Architecture**
+
 <img width="769" height="1089" alt="image" src="https://github.com/user-attachments/assets/951874a1-f241-4a76-9de3-f67760baa805" />
 
 ## 👨‍💻 Author
