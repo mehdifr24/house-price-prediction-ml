@@ -37,8 +37,8 @@ Here are some key visual insights and evaluation metrics from the project:
 <img width="691" height="450" alt="image" src="https://github.com/user-attachments/assets/84de4146-6bdf-4a02-9667-8b869ea91af2" />
 
 **3. What Drives House Prices? (Feature Importance)**
-*(تصویر نمودار Feature Importance مربوط به XGBoost را اینجا قرار دهید)*
-> Using the XGBoost model to identify the top 10 most influential features (e.g., Area, Room, and premium neighborhoods) dictating property prices.
+
+<img width="946" height="546" alt="image" src="https://github.com/user-attachments/assets/7559a65e-4626-4d86-852d-273dd33394d0" />
 
 ---
 👨‍💻 **Author**
