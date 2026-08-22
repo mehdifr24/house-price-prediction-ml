@@ -33,8 +33,8 @@ Here are some key visual insights and evaluation metrics from the project:
 <img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/063c2fd8-f454-4389-b6ab-3c55502605ac" />
 
 **2. Model Performance Comparison (R² Score )**
-*(تصویر نمودار میله‌ای مقایسه ۳ مدل را اینجا قرار دهید)*
-> Comparing Linear Regression, Random Forest, and XGBoost. The tree-based ensemble models significantly reduced the R² score.
+
+<img width="691" height="450" alt="image" src="https://github.com/user-attachments/assets/84de4146-6bdf-4a02-9667-8b869ea91af2" />
 
 **3. What Drives House Prices? (Feature Importance)**
 *(تصویر نمودار Feature Importance مربوط به XGBoost را اینجا قرار دهید)*
