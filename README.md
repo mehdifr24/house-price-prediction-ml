@@ -29,8 +29,8 @@ The dataset used in this project contains information about residential properti
 Here are some key visual insights and evaluation metrics from the project:
 
 **1. Actual vs. Predicted Prices (Linear Regression Baseline)**
-*(تصویر Actual vs Predicted را اینجا قرار دهید)*
-> Visualizing the baseline model's performance and residual distribution.
+
+<img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/063c2fd8-f454-4389-b6ab-3c55502605ac" />
 
 **2. Model Performance Comparison (R² Score )**
 *(تصویر نمودار میله‌ای مقایسه ۳ مدل را اینجا قرار دهید)*
