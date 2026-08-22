@@ -1,50 +1,47 @@
-# 🏠 House Price Prediction with Linear Regression
+# 🏠 House Price Prediction: From Linear Regression to XGBoost
 
-## 📖 About
+📖 **About**
+This project demonstrates an end-to-end machine learning workflow for predicting house prices in Tehran. It covers everything from data preprocessing and feature engineering to model evaluation. 
 
-This project demonstrates an end-to-end machine learning workflow for predicting house prices using Linear Regression. It covers data preprocessing, feature engineering, model evaluation, and compares a manual implementation with a Scikit-learn Pipeline.
+Initially built using a basic **Linear Regression** model, the project has been upgraded to include powerful ensemble methods like **Random Forest** and **XGBoost**. Additionally, the entire workflow was restructured using **Scikit-learn Pipelines** to ensure clean, maintainable, and leak-proof code.
 
-## 🚀 Technologies
-
+🚀 **Technologies**
 * Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
+* Pandas & NumPy
+* Matplotlib & Seaborn
+* Scikit-learn (Pipelines, ColumnTransformer)
+* XGBoost
 
-## 📂 Dataset
+📂 **Dataset**
+The dataset used in this project contains information about residential properties in Tehran. It is included directly in this repository, so you can download it and follow the notebook step by step without any additional setup.
 
-The dataset used in this project is included in this repository and can be downloaded directly.
+📊 **Project Workflow**
+1. Data Cleaning & Handling Missing Values
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering & One-Hot Encoding
+4. Baseline Model: Linear Regression
+5. **Advanced Models:** Random Forest & XGBoost
+6. Pipeline Implementation for all models
+7. Model Evaluation & Comparison
+8. Feature Importance Extraction
 
-## 📊 Project Workflow
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Feature Engineering
-* One-Hot Encoding
-* Linear Regression
-* Model Evaluation
-* Pipeline Implementation
-* Manual vs Pipeline Comparison
-
-## 📈 Results & Visualizations
-
+📈 **Results & Visualizations**
 Here are some key visual insights and evaluation metrics from the project:
 
-**1. Actual vs. Predicted Prices (Model Evaluation)**
+**1. Actual vs. Predicted Prices (Linear Regression Baseline)**
+*(تصویر Actual vs Predicted را اینجا قرار دهید)*
+> Visualizing the baseline model's performance and residual distribution.
 
-<img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/7c82daa8-ee6e-4cd8-9dd1-f9071f36f262" />
+**2. Model Performance Comparison (R² Score )**
+*(تصویر نمودار میله‌ای مقایسه ۳ مدل را اینجا قرار دهید)*
+> Comparing Linear Regression, Random Forest, and XGBoost. The tree-based ensemble models significantly reduced the R² score.
 
+**3. What Drives House Prices? (Feature Importance)**
+*(تصویر نمودار Feature Importance مربوط به XGBoost را اینجا قرار دهید)*
+> Using the XGBoost model to identify the top 10 most influential features (e.g., Area, Room, and premium neighborhoods) dictating property prices.
 
-**2. Residuals Distribution (Error Analysis)**
-
-<img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/a957965d-0243-440a-a75c-50dfb1048748" />
-
-**3. Scikit-learn Pipeline Architecture**
-
-<img width="769" height="1089" alt="image" src="https://github.com/user-attachments/assets/951874a1-f241-4a76-9de3-f67760baa805" />
-
-## 👨‍💻 Author
+---
+👨‍💻 **Author**
 
 **Mehdi Ferdosi**  
 Computer Science Student | Machine Learning Enthusiast  
