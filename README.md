@@ -25,6 +25,16 @@ The dataset used in this project contains information about residential properti
 7. Model Evaluation & Comparison
 8. Feature Importance Extraction
 
+📊 Model Performance Comparison
+
+| Model | MAE (USD) | RMSE (USD) | R² Score |
+|:---|:---:|:---:|:---:|
+| **Linear Regression** | 75,984.62 | 164,713.54 | 0.6134 |
+| **Random Forest** | **56,964.69** | **152,961.30** | **0.6666** |
+| **XGBoost** | 58,623.35 | 156,692.60 | 0.6502 |
+
+> **Note:** The Random Forest model achieved the best overall performance, significantly reducing the prediction error and explaining roughly 66.6% of the variance in house prices.
+
 📈 **Results & Visualizations**
 Here are some key visual insights and evaluation metrics from the project:
 
